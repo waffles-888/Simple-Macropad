@@ -19,3 +19,5 @@ This is the PCB which was made inside of KiCAD
 <img src=assets/HackPad_schematic.svg alt="schematic of Hackpad" width="300"/>
 
 <img src=assets/SimpleHackPad_PCB.png alt="PCB of Hackpad" width="300"/>
+
+# Firmware
