@@ -1,0 +1,47 @@
+{
+    "keyboard_name": "Hackpad",
+    "manufacturer": "waffles",
+    "maintainer": "waffles",
+    "url": "https://github.com/waffles-888/Simple-Macropad",
+    "usb": {
+        "vid": "0xFEED",
+        "pid": "0x0001",
+        "device_version": "0.0.1"
+    },
+    "processor": "RP2040",
+    "bootloader": "rp2040",
+    "diode_direction": "COL2ROW",
+    "matrix_pins": {
+        "direct": [
+            ["GP26", "GP27", "GP28", "GP29", "GP0", "GP1", "GP3"]
+        ]
+    },
+    "features": {
+        "bootmagic": true,
+        "command": false,
+        "console": false,
+        "extrakey": true,
+        "mousekey": false,
+        "nkro": true,
+        "encoder": true,
+        "oled": true
+    },
+    "encoder": {
+        "rotary": [
+            { "pin_a": "GP2", "pin_b": "GP4" }
+        ]
+    },
+    "layouts": {
+        "LAYOUT": {
+            "layout": [
+                { "matrix": [0, 0], "x": 0, "y": 0 },
+                { "matrix": [0, 1], "x": 1, "y": 0 },
+                { "matrix": [0, 2], "x": 2, "y": 0 },
+                { "matrix": [0, 3], "x": 3, "y": 0 },
+                { "matrix": [0, 4], "x": 4, "y": 0 },
+                { "matrix": [0, 5], "x": 5, "y": 0 },
+                { "matrix": [0, 6], "x": 6, "y": 0 }
+            ]
+        }
+    }
+}
