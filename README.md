@@ -8,7 +8,7 @@ The Simple Macropad is a 6 key pad with a rotary encoder and an OLED screen. It 
 * Rotary encoder
 
 # CAD Model:
-Everything is put together with 4 M3 screws and screws directly into the plastic. The PCB should sit snugly into the space inside the case and has a little bit of plastic extruded from the bottom to keep it flat while being used. It’s printed in two pieces, keeping it reasonably simple.
+Everything is put together with 4 M3 screws and screws directly into the plastic. The PCB should sit snugly into the space inside the case and has a little bit of plastic extruded from the bottom to keep it flat while being used. It’s printed in two pieces, keeping it simple.
 
 <img src=assets/SimpleHackPad_together.png alt="pad together" width="300"/>
 
@@ -27,7 +27,6 @@ My Hackpad uses QMK firmware for it. I want to add VIA support to allow for more
 * the rotary encoder allows for volume to be changed
 * The OLED screen shows HackPad
 
-I definitely will add more to this later on once I have the hardware as it will make debugging easier if there are issues.
 
 # BOM:
 * 6x Cherry MX Switches
