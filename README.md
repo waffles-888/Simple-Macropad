@@ -1,4 +1,5 @@
 # Simple-Macropad
+<img src=assets/final.webp alt="Final HackPad" width="300">
 
 The Simple Macropad is a 6 key pad with a rotary encoder and an OLED screen. It is also using QMK for its firmware.
 
@@ -30,9 +31,9 @@ My Hackpad uses QMK firmware for it. I want to add VIA support to allow for more
 
 # BOM:
 * 6x Cherry MX Switches
-* 6x DSA Keycaps
+* 6x 3D printed Keycaps
 * 4x M3x16mm screws
 * 1x 0.91" 128x32 OLED Display
 * 1x EC11 Rotary Encoder
 * 1x XIAO RP2040
-* 1x Case 
+* 1x Case
